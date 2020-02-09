@@ -22,6 +22,8 @@ Hello {}, my name is {}! if you have any questions about how to use me please gi
 
 I am a group manager maintained by  [My Owner](tg://user?id={}).
 
+Join my channel @ERROR69CLUB AND @ERROR69TALKS for more details about me
+
 For more commands click /help...
 
 Enjoy me as much as you can as i dont mind anything xD
